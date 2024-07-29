@@ -1,0 +1,11 @@
+# Sha AdBloaker Patcher 1.0 - Testing
+! 1
+U: amtso.eicar.org/cloudcar.exe B
+U: amtso.eicar.org/PotentiallyUnwanted.exe B
+U: eviltracker.net B
+U: trackersimulator.org B
+R: .*/zig.js B
+U: do-not-tracker.org B
+U: cryptonews.net/upload/adv/detail B
+U: weather.us/js/ads.js A
+U: cyber-sale.com B
